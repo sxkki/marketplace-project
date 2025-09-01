@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop Gaming",
+    "description": "Potente laptop para gaming con tarjeta gráfica dedicada",
+    "price": 1299.99,
+    "image": "https://via.placeholder.com/300x200?text=Laptop",
+    "category": "Electrónicos",
+    "stock": 15,
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "name": "Smartphone Flagship",
+    "description": "Último modelo de smartphone con cámara de alta resolución",
+    "price": 899.99,
+    "image": "https://via.placeholder.com/300x200?text=Smartphone",
+    "category": "Electrónicos",
+    "stock": 30,
+    "rating": 4.8
+  },
+  {
+    "id": "3",
+    "name": "Auriculares Bluetooth",
+    "description": "Auriculares inalámbricos con cancelación de ruido",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/300x200?text=Auriculares",
+    "category": "Audio",
+    "stock": 45,
+    "rating": 4.3
+  }
+]
